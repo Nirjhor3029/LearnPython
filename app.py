@@ -25,6 +25,9 @@ favorite_color = input('What is your favorite color? ')
 print(name_3 + ' likes ' + favorite_color)
 
 # 4th Class
+birthday_tear =  input('Birth Year: ')
+age = 2019 - birthday_tear
+print(age)
 
 
 
