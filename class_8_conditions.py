@@ -10,3 +10,6 @@ elif is_cold:
 else:
     print("It's a lovely day")
 print("Enjoy Your day")
+
+# Exercise
+
